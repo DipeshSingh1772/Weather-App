@@ -1,0 +1,49 @@
+.main_class{
+    background-color: rgb(252, 249, 249);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;    
+}
+
+.sub_class{
+     background-color: rgb(166, 207, 241);
+     margin: auto;
+     height: 500px;
+     width: 320px;
+     border-radius: 20px;
+     padding-top: 10px;
+
+}
+
+input{
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 40px;
+    width: 220px;
+    outline: none;
+    font-size: larger;
+    padding-left: 10px;
+    font-family: Courier New, monospace	;
+}
+
+h1{
+
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Bradley Hand, cursive	;
+}
+
+p{
+    font-size: 25px;
+}
